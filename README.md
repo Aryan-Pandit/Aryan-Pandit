@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## What I'm Vibing to 🎵:
-[![Spotify](https://Spotify-Status-git-master-Aryan-Pandit.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/Aryan)
+[![Spotify](https://spotify-status-git-master-Aryan-Pandit.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/313lguacxvx77i5fu7w4mat4x4p4)
 <!--
 **Aryan-Pandit/Aryan-Pandit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
